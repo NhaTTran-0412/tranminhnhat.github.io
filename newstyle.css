@@ -1,0 +1,14 @@
+body {
+    background-color: #E0E0E0;
+}
+img.inset { 
+    border-style: inset;
+}
+
+div {
+    padding-left: 40px;
+    padding-right: 550px;
+}
+a:link {
+    color:blue;
+}
